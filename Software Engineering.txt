@@ -1,0 +1,9 @@
+pwd- path dincha
+mkdir name - folder banaucha
+cd - directory change huncha
+cd .. - back jancha
+cd ../.. - two step back jancha
+cd <Eauta letter><Tab button> - folder recmmend garcha
+git --version - git cha ki chaina dincha
+
+
